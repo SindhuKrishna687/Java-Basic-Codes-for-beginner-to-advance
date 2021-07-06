@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class LinkedList {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Queue queue = new Queue();
 		Scanner input = new Scanner(System.in);
 		String operations = input.nextLine();
